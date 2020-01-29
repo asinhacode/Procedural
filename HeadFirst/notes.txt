@@ -1,0 +1,4 @@
+my C code >>> COMPILER >>> Machine code (0000 1110 1110 1111 0010 ...)
+
+source >> compiler >> a.out
+
