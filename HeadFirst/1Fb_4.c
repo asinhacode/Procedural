@@ -2,7 +2,8 @@
 
 void incrementer(int *x)
 {
-    *x = *x + 1; // fishy
+    *x = *x + 1; // can only be done this way
+// *x++; doesn't work
 }
 int main()
 {
